@@ -5,9 +5,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 
 @SpringBootApplication
-public class Example {
+public class CalculatorApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(Example.class, args);
+        SpringApplication.run(CalculatorApplication.class, args);
     }
 }
